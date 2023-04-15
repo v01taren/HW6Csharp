@@ -1,0 +1,15 @@
+D:\GeekBrains\HW6Csharp\41hw\bin\Debug\net6.0\41hw.exe
+D:\GeekBrains\HW6Csharp\41hw\bin\Debug\net6.0\41hw.deps.json
+D:\GeekBrains\HW6Csharp\41hw\bin\Debug\net6.0\41hw.runtimeconfig.json
+D:\GeekBrains\HW6Csharp\41hw\bin\Debug\net6.0\41hw.dll
+D:\GeekBrains\HW6Csharp\41hw\bin\Debug\net6.0\41hw.pdb
+D:\GeekBrains\HW6Csharp\41hw\obj\Debug\net6.0\41hw.csproj.AssemblyReference.cache
+D:\GeekBrains\HW6Csharp\41hw\obj\Debug\net6.0\41hw.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\HW6Csharp\41hw\obj\Debug\net6.0\41hw.AssemblyInfoInputs.cache
+D:\GeekBrains\HW6Csharp\41hw\obj\Debug\net6.0\41hw.AssemblyInfo.cs
+D:\GeekBrains\HW6Csharp\41hw\obj\Debug\net6.0\41hw.csproj.CoreCompileInputs.cache
+D:\GeekBrains\HW6Csharp\41hw\obj\Debug\net6.0\41hw.dll
+D:\GeekBrains\HW6Csharp\41hw\obj\Debug\net6.0\refint\41hw.dll
+D:\GeekBrains\HW6Csharp\41hw\obj\Debug\net6.0\41hw.pdb
+D:\GeekBrains\HW6Csharp\41hw\obj\Debug\net6.0\41hw.genruntimeconfig.cache
+D:\GeekBrains\HW6Csharp\41hw\obj\Debug\net6.0\ref\41hw.dll

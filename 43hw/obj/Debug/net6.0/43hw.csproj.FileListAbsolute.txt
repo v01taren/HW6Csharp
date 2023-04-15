@@ -1,0 +1,15 @@
+D:\GeekBrains\HW6Csharp\43hw\bin\Debug\net6.0\43hw.exe
+D:\GeekBrains\HW6Csharp\43hw\bin\Debug\net6.0\43hw.deps.json
+D:\GeekBrains\HW6Csharp\43hw\bin\Debug\net6.0\43hw.runtimeconfig.json
+D:\GeekBrains\HW6Csharp\43hw\bin\Debug\net6.0\43hw.dll
+D:\GeekBrains\HW6Csharp\43hw\bin\Debug\net6.0\43hw.pdb
+D:\GeekBrains\HW6Csharp\43hw\obj\Debug\net6.0\43hw.csproj.AssemblyReference.cache
+D:\GeekBrains\HW6Csharp\43hw\obj\Debug\net6.0\43hw.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\HW6Csharp\43hw\obj\Debug\net6.0\43hw.AssemblyInfoInputs.cache
+D:\GeekBrains\HW6Csharp\43hw\obj\Debug\net6.0\43hw.AssemblyInfo.cs
+D:\GeekBrains\HW6Csharp\43hw\obj\Debug\net6.0\43hw.csproj.CoreCompileInputs.cache
+D:\GeekBrains\HW6Csharp\43hw\obj\Debug\net6.0\43hw.dll
+D:\GeekBrains\HW6Csharp\43hw\obj\Debug\net6.0\refint\43hw.dll
+D:\GeekBrains\HW6Csharp\43hw\obj\Debug\net6.0\43hw.pdb
+D:\GeekBrains\HW6Csharp\43hw\obj\Debug\net6.0\43hw.genruntimeconfig.cache
+D:\GeekBrains\HW6Csharp\43hw\obj\Debug\net6.0\ref\43hw.dll
